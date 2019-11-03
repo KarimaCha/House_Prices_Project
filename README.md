@@ -1,6 +1,6 @@
 # House_Prices_Project
 
-This repository contains a data science project based on the King County House Sales dataset. The dataset can be found in the file "kc_house_data.csv" in this repository, and a description of the corresponding column names can be found in the “column_names.ipynb” file.
+This repository contains a data science project based on the King County House Sales dataset. The dataset can be found in the file "King_County_House_prices_dataset.csv" in this repository, and a description of the corresponding column names can be found in the “column_names.md” file.
 
 The Data Science Life Cycle goals for this project include: Data Cleaning, Data Exploration, Data Visualization and Predictive Modeling (by linear regression).
 
